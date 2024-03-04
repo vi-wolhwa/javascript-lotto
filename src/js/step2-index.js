@@ -1,8 +1,8 @@
-// import '../css/styles.css';
-// import '../css/index.css';
-// import '../css/modal.css';
-// import '../css/font.css';
-// import '../css/color.css';
+import '../css/styles.css';
+import '../css/index.css';
+import '../css/modal.css';
+import '../css/font.css';
+import '../css/color.css';
 
 import LottoController2 from './controller/LottoController2.js';
 import modalCloseButtonEventListener from './eventListener/modalCloseButtonEventListener.js';
